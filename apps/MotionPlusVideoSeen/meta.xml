@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+	<app version="1">
+		<name>MotionPlusVideoSeen</name>
+		<coder>WiiDatabase Team</coder>
+		<version>1.0.0</version>
+		<release_date>20190414144800</release_date>
+		<short_description>Motion Plus Video Seen Setter</short_description>
+		<long_description>This homebrew sets the "MPLS.MOVIE" flag in SYSCONF that tells the Wii if the user has already seen the "Wii Motion Plus" tutorial video.
+
+Start the application and it tells you the current status.
+* Press "A" to change the status
+* Press "HOME" to exit without changing
+
+It also works on the Wii U.</long_description>
+	</app>
