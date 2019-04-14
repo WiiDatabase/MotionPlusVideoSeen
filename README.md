@@ -15,3 +15,6 @@ It also works on the Wii U.
 
 ## Documentation
 * [SYSCONF#Misc Settings](https://wiibrew.org/wiki//shared2/sys/SYSCONF#Misc_Settings) on WiiBrew
+
+## Screenshot
+![Screenshot](screenshot.png)  
